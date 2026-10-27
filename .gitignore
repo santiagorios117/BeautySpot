@@ -1,0 +1,14 @@
+# Maven
+backend/target/
+
+# Base de datos H2 local (se regenera al arrancar la app)
+backend/data/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Logs
+*.log
