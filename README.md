@@ -135,15 +135,3 @@ Entidades: **usuario** (autenticación), **cliente**, **servicio**, **cita**.
 Relaciones: un usuario tiene a lo sumo un cliente asociado (1 a 0..1); un
 cliente puede tener muchas citas (1 a 0..*); un servicio puede estar en
 muchas citas (1 a 0..*).
-
-## 8. Pendientes de entrega del taller (fuera del alcance del código)
-
-Estos puntos del enunciado son de gestión del equipo/repositorio y deben
-hacerse manualmente:
-
-- [ ] Crear el repositorio en GitHub y subir este proyecto (`git init`,
-      `git add .`, `git commit`, `git push`).
-- [ ] Crear el tablero en Jira (u otro gestor) con las historias de usuario.
-- [ ] Grabar o preparar la presentación del proyecto.
-- [ ] Documentar en el README del repositorio la evidencia del CRUD
-      realizado (este documento ya cubre esa parte).
